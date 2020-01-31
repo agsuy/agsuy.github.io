@@ -1,19 +1,19 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: http://agsuy.github.io
+projectUrl:
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Agustin Rodriguez Hirigoyen
   depiction: headshot.png
   profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  location: Montevideo
+  citizenship:
+  email: agusdeveloper6892@gmail.com
+  site:
+  phone: +598-98-034-132
+  github: /agsuy
+  stackoverflow:
+  linkedin: /agustin-urias
 
 career:
  - position: Foot Clan Antagonist
