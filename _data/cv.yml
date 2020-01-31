@@ -28,10 +28,10 @@ career:
    company: Boticario
    location: Pharma POS Software
    dates:  February 2018 – November 2018
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
+   summary: Incident reporting and management. Customers traning. Integration of electronic invoicing.
    accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+    - accomplishment: Web Service integration of POS systems
+    - accomplishment: Development of functional automatisms (installers, scripts, etc).
 
 technicalSkills:
   list:
