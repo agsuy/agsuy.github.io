@@ -16,14 +16,14 @@ person:
   linkedin: /agustin-urias
 
 career:
- - position: Foot Clan Antagonist
+ - position: QA Tester / Automation
    company: Khimo
    location: Smart Things & Home Automation
    dates: November 2018 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+   summary: Responsible of releases certification. Functional testing of mobile apps (iOS & Android). Design, development and implementation of E2E test suites and Integration tests. Maintenance of testsuites for IoT devices. macOS Server deployments
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
+    - accomplishment: Design and implementation of sandboxed workflows for testing and development
+    - accomplishment: Implementation of comprehensive testplans
  - position: JR Intern
    company: Boticario
    location: Pharma POS Software
@@ -35,26 +35,26 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Creative and very social"
+    - tr: "Great analysis capabilities"
+    - tr: "Fast learner"
+    - tr: "Result oriented"
+    - tr: ""
+    - tr: ""
   backend:
-   - name: Ninjutsu
+   - name: Cypress.io
      level: 90
-   - name: Kusarigama
+   - name: Java Script
      level: 80
   frontend:
-   - name: Cooking Skills
+   - name: Docker
      level: 80
-   - name: Pranks
-     level: 90
+   - name: Python
+     level: 55
   other:
-   - name: Shadow Puppet Skill
+   - name: Linux Scripting
      level: 90
-   - name: Teaching
+   - name: Bug Reporting
      level: 100
 
 #sideProjects:
