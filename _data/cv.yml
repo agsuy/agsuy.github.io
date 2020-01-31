@@ -35,10 +35,10 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Creative and very social"
-    - tr: "Great analysis capabilities"
-    - tr: "Fast learner"
-    - tr: "Result oriented"
+    - tr: "> Creative and very social"
+    - tr: "> Great analysis capabilities"
+    - tr: "> Fast learner"
+    - tr: "> Result oriented"
     - tr: ""
     - tr: ""
   backend:
