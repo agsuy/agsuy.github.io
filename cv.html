@@ -14,7 +14,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
   <title>{{ site.data.cv.person.name }}'s CV</title>
   <meta name="author" content="{{ site.data.cv.name }}" />
   <meta name="description" content="{{ site.data.cv.name }}'s CV" />
@@ -27,6 +27,14 @@
   <link href='https://fonts.googleapis.com/css?family=Archivo+Black' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300' rel='stylesheet' type='text/css'>
 
+  @media only screen and (max-width: 481px) {
+  body {
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+  
   <script type="text/javascript">
     WebFontConfig = {
       google: {
