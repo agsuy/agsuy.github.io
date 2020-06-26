@@ -6,7 +6,7 @@ person:
   name: Agustin Rodriguez Hirigoyen
   depiction: cvpic.jpeg
   profession: QA Analyst - Automation
-  location: Montevideo
+  location: Montevideo, Uruguay
   citizenship:
   email: agusdeveloper6892@gmail.com
   site:
@@ -42,6 +42,8 @@ technicalSkills:
     - tr: ""
     - tr: ""
   backend:
+   - name: Bug Reporting
+     level: 100
    - name: Cypress.io
      level: 90
    - name: Java Script
@@ -56,8 +58,7 @@ technicalSkills:
      level: 90
    - name: C++
      level: 40
-   - name: Bug Reporting
-     level: 100
+
 
 #sideProjects:
 education:
