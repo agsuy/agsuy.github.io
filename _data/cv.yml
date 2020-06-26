@@ -49,23 +49,26 @@ technicalSkills:
   frontend:
    - name: Docker
      level: 80
-   - name: Python
-     level: 55
+   - name: Python3
+     level: 75
   other:
    - name: Linux Scripting
      level: 90
+   - name: C++
+     level: 40
    - name: Bug Reporting
      level: 100
 
 #sideProjects:
 education:
-  - name: Facultad de Ingenieria - Universidad de la Republica
-    degree: Ingenieria en Computacion
-    location: 
-    dates: 2015 – Current
-    link:
-  - name: Centro de Ensayos de Software - Fundacion Ricaldoni
+  - name: Centro de Ensayos de Software - Fundacion Ricaldoni/UDELAR
     degree: Professional Software tester
     location: 
     dates: 2017 – 2019
     link:
+  - name: Facultad de Ingenieria - Universidad de la Republica (UDELAR)
+    degree: Systems Engineering
+    location: 
+    dates: 2015 – Current (Long term goal)
+    link:
+
