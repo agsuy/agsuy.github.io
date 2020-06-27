@@ -22,8 +22,9 @@ career:
    dates: November 2018 - current
    summary: Responsible of releases certification. Functional testing of mobile apps (iOS & Android). Design, development and implementation of E2E test suites (Webdriver+Protractor/Cypress) API tests (Python/Postman) and Integration tests. Maintenance of testsuites for IoT devices. MacOS Server deployments
    accomplishments:
-    - accomplishment: Design and implementation of sandboxed workflows for testing and development
-    - accomplishment: Implementation of comprehensive testplans
+    - accomplishment: Design and implementation of sandboxed (Docker/Jenkins) workflows for testing and development
+    - accomplishment: Implementation of comprehensive testplans for IoT devices, cordova apps, smart speakers and Voice assistant integrations (Amazon/Google/Tencent)
+    - accomplishment: Automated compliance tests for custom protocols, REST APIs and UPNP interactions.
  - position: JR Intern
    company: Boticario
    location: Pharma POS Software
@@ -32,7 +33,6 @@ career:
    accomplishments:
     - accomplishment: Web Service integration of POS systems
     - accomplishment: Development of functional automatisms (installers, scripts, etc).
-    - accomplishment: Automated compliance tests for custom protocols, REST APIs and UPNP interactions.
 
 technicalSkills:
   list:
