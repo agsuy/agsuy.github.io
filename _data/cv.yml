@@ -32,6 +32,7 @@ career:
    accomplishments:
     - accomplishment: Web Service integration of POS systems
     - accomplishment: Development of functional automatisms (installers, scripts, etc).
+    - accomplishment: Automated compliance tests for custom protocols, REST APIs and UPNP interactions.
 
 technicalSkills:
   list:
